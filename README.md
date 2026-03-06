@@ -43,4 +43,4 @@ The `lang="en"` attribute was added to the HTML tag.
 
 ## Final Lighthouse Accessibility Score
 
-Accessibility Score: **95**
+Accessibility Score: **94**
