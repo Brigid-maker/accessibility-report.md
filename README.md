@@ -8,7 +8,6 @@ This report documents the accessibility audit conducted on the index.html page o
 ## Tools Used
 
 - Chrome DevTools Lighthouse Accessibility Audit
-- WAVE Web Accessibility Tool
 
 ---
 
